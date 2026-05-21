@@ -73,7 +73,7 @@ Using `utils/apiHelper.ts` to generate dynamic preconditions.
 Using `Date.now()` to create unique identifiers (e.g., Subject lines) preventing data collisions during parallel execution.
 
 ### 4. Resilient Locators
-Using user-centric locators like `getByTestId` and `getByText`.
+Using user-centric locators like `getByPlaceholder` and `getByRole`.
 
 ---
 
